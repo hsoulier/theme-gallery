@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "5ff08f90186c323f34900380"
+  },
+  "username": "Toto",
+  "name": "Thomas Shelby",
+  "email": "toto@gmail.com",
+  "password": "xdgbddw@hnxfbg",
+  "createdAt": {
+    "$date": "2021-01-01T23:00:00Z"
+  },
+  "galleries": [
+    {
+      "$oid": "5ff0b3a2693d9a24f4506a4f"
+    },
+    {
+      "$oid": "5ff31c21074200005500526a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6004c054a576c6198435d208"
+  },
+  "username": "roro",
+  "name": "Roro",
+  "email": "roro@gmail.com",
+  "password": "5euXnPFnlNzXs",
+  "createdAt": {
+    "$date": "2021-01-17T22:55:16.455Z"
+  },
+  "galleries": [
+    {
+      "$oid": "6004c0a3a576c6198435d209"
+    }
+  ]
+}]

@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "5ff0b3fa693d9a24f4506a50"
+  },
+  "name": "Test"
+},{
+  "_id": {
+    "$oid": "5ff2ecac1683321e207f4556"
+  },
+  "name": "Plage"
+},{
+  "_id": {
+    "$oid": "60046961c754560d06674147"
+  },
+  "name": "Batiments"
+},{
+  "_id": {
+    "$oid": "60046986c754560d0667414b"
+  },
+  "name": "Albatros"
+}]
